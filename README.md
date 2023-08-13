@@ -4,11 +4,10 @@ This Project is made using Java Swing.
 /* TextEditor is a basic text editing program which enables 
   computer users to create documents*/
 
-//Functionalities in Text Editor
---
+//Functionalities in Text Editor:
 
-/* TextEditor contains 4 Menu and each Menu consist of some MenuItem 
-   and helps the user to perform functionality that the user wants */
+  /* TextEditor contains 4 Menu and each Menu consist of some MenuItem 
+     and helps the user to perform functionality that the user wants */
    
    //File --> NewFile , OpenFile , SaveFile , Exit 
    //Edit --> Cut , copy , paste , select All , FontSize
